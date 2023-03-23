@@ -19,6 +19,6 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions by suriya
+* Deployment instructions By Suriya with Ruby on Rails
 
 * ...
